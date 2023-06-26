@@ -1,0 +1,8 @@
+Name:Uttam Kumar 
+ Phone:6207536064 
+ Gender:Male 
+ Emergency Contact No:9097910715 
+ Payment Mode: Card 
+ Food: 1 
+ 
+ 

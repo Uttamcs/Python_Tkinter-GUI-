@@ -1,0 +1,42 @@
+***********Apka Apna Calculator User Manual***********
+
+Calculator Interface:
+
+* The calculator interface is divided into several sections.
+* At the top, you'll see the title "Apka Apna Calculator" and the name of the developer.
+* Below the title, there is a text entry field where you can input your calculations.
+* The calculator buttons are arranged in a grid-like pattern below the text entry field.
+* The calculator has numeric buttons (0-9), arithmetic operation buttons (+, -, *, /, %), the equal (=) button, and the clear (C) button.
+* At the bottom of the calculator, there is a message that says "Thanks for using me!!!"
+
+
+Performing Calculations:
+
+* To perform calculations, you can click on the numeric buttons (0-9) to enter the numbers.
+* The entered numbers will appear in the text entry field.
+* You can also use the arithmetic operation buttons (+, -, *, /) to perform basic mathematical operations.
+* Click on the arithmetic operation button after entering the first number, then enter the second number.
+* After that you have to click "=" sign in GUI, then result will be shown in entry box.
+* The result will be displayed in the text entry field.
+* To clear the text entry field and start a new calculation, click the clear (C) button.
+
+
+Evaluating Expressions:
+
+* The calculator can evaluate arithmetic expressions.
+* You can enter expressions involving multiple numbers and arithmetic operations.
+* For example, you can enter "2 + 3 * 4" and press the equal (=) button to get the result.
+* The calculator follows the standard order of operations (BODMAS).
+* It can handle addition, subtraction, multiplication, and division operations.
+* If you enter an invalid expression, such as dividing by zero, an error message will be displayed.
+
+
+Handling Errors:
+
+* If you encounter any errors during calculations, an error message will be displayed in the text entry field.
+* The error message will help you identify and correct the issue with your input.
+* Make sure to check for division by zero or any other mathematical errors.
+
+Exiting the Calculator:
+
+* To exit the calculator, you can close the calculator window by clicking the close button (X) on the window's title bar.
